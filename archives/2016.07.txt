@@ -1,0 +1,51 @@
+Hi all,
+
+First of all, thanks for joining my mailing list.
+
+I will get you periodic updates (aiming for +/- once a month) about programming, data and what I've been learning in general.
+
+==
+
+Here are some recent articles I wrote that you might find useful:
+
+How to write a simple Twitter bot:
+http://bobbelderbos.com/2016/06/twitter-bot/
+
+Analyzing Brexit data with Pandas:
+http://bobbelderbos.com/2016/06/analyzing-brexit-data-with-pandas/
+
+Career development for programmers:
+http://bobbelderbos.com/2016/06/career-development-programmers/
+
+And about my recent certification of quality software developer:
+http://bobbelderbos.com/2016/07/certified-software-quality/
+
+
+==
+
+No idea what to read this summer?
+
+Here is a great book you might enjoy, I am completely absorbed in it!
+
+Sapiens: A Brief History of Humankind
+by Yuval Noah Harari
+
+
+==
+
+Quote I am pondering:
+
+"Many a false step was made by standing still."
+- Timothy Ferriss [click to tweet]
+
+Failing is good. It is how you actually learn and grow. So ship it! Get out there! Perfect over time ...
+
+
+==
+
+Have a great week and thanks for reading!
+
+Bob
+
+
+P.S. - if you don't want to receive these updates anymore, just reply to this email saying "unsubscribe".

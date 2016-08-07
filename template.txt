@@ -1,0 +1,53 @@
+Subject: bobbelderbos.com update [month] [year]: subject item 1 / subject item 2 / ...
+
+Hi all,
+
+Here are some recent articles I wrote you might enjoy:
+
+title
+post-link
+
+title
+post-link
+
+title
+post-link
+
+==
+
+Books I am consuming:
+
+Programming:
+book-link
+
+Non-programming:
+book-link
+
+Audio:
+book-link
+
+For more titles, check out my bookshelf:
+http://bobbelderbos.com/books/
+
+==
+
+Quote I am pondering:
+
+[quote]
+- by ... [click to tweet] -> use link https://twitter.com/intent/tweet?text=tweet-text @bbelderbos
+
+==
+
+Housekeeping:
+
+- archives: https://github.com/bbelderbos/mailing-list
+
+- interested friends? have them send me an email with "subscribe" to info [at] bobbelderbos.com (or use the link on http://bobbelderbos.com)
+
+- to stop receiving these emails, reply to this email saying "unsubscribe"
+
+== 
+
+Have a great week and thanks for reading!
+
+Bob
